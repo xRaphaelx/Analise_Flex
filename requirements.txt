@@ -1,0 +1,5 @@
+pyodbc
+matplotlib
+datetime
+calendra
+pandas
